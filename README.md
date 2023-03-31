@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate developer with experience
 
 Here are my most recent repositories:
 
-{% for repo in recent_repos %}
+{% for repo in site.github.public_repositories limit:5 %}
 - [{{ repo.name }}]({{ repo.html_url }}): {{ repo.description }}
 {% endfor %}
 
@@ -16,4 +16,3 @@ Here are my most recent repositories:
 
 I am always looking for ways to contribute to open source projects
 
-{% assign recent_repos = site.github.public_repositories | sort: 'pushed_at' | reverse | limit: 5 %}
