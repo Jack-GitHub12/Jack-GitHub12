@@ -1,16 +1,19 @@
-### Hi there 👋
+# Jack-GitHub12
 
-<!--
-**Jack-GitHub12/Jack-GitHub12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate developer with experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent Repositories
+
+Here are my most recent repositories:
+
+{% for repo in recent_repos %}
+- [{{ repo.name }}]({{ repo.html_url }}): {{ repo.description }}
+{% endfor %}
+
+## Contributions
+
+I am always looking for ways to contribute to open source projects
+
+{% assign recent_repos = site.github.public_repositories | sort: 'pushed_at' | reverse | limit: 5 %}
