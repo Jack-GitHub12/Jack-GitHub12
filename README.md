@@ -1,16 +1,34 @@
-# Jack-GitHub12
+# Hi, I’m Jack Lau 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jack-GitHub12\&color=brightgreen)](https://github.com/Jack-GitHub12)
 
-### Stats
+---
 
-![Jack-GitHub12's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jack-GitHub12&show_icons=true&theme=radical)
+## 🚀 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-GitHub12&layout=compact)](https://github.com/Jack-GitHub12/github-readme-stats)
+I’m a 18 year old passionate about workflow automation and scalable web systems.
 
-Welcome to my GitHub profile! I'm Jack Lau
+* 🔭 Currently building **CrownLabs** with Yoinka — a platform to automate workflows for content creators and agencies.
+* 💼 Previously co‑founded **Speechstream** (exited in December 2024).
+* 🤖 Experienced in developing botting applications and proxy solutions.
+* 🌱 Continuously learning **Rust** and **Kubernetes**.
 
-## Contributions
 
-I am always looking for ways to contribute to open source projects
+## 📊 GitHub Stats & Streak
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jack-GitHub12&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-GitHub12&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://x.com/jack8lau"><img alt="X" src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/-jacklau"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
 
