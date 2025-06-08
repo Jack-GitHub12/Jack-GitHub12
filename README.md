@@ -11,8 +11,7 @@ I’m a 18 year old passionate about workflow automation and scalable web system
 * 🔭 Currently building **CrownLabs** with Yoinka — a platform to automate workflows for content creators and agencies.
 * 💼 Previously co‑founded **Speechstream** (exited in December 2024).
 * 🤖 Experienced in developing botting applications and proxy solutions.
-* 🌱 Continuously learning **Rust** and **Kubernetes**.
-
+* 
 
 ## 📊 GitHub Stats & Streak
 
